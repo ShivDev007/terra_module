@@ -7,5 +7,5 @@ module "ec2" {
   region = "ap-south-1"
   instance_type = "t2.micro"
   subnet_id = "subnet-089d3b6c073fe27a1"
-  name = "ec2-server"
+  name = "ec2-server2"
 }
